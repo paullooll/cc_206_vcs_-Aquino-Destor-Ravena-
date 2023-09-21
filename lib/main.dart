@@ -1,3 +1,6 @@
+//John Philip Ravena: Change is Scamming
+//Richie Paul Aquino: Papakitaab ko to Guys
+//Job Russel Destor: We Live, We Love, We Lie
 import 'package:flutter/material.dart';
 
 void main() {
